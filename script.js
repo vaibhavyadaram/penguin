@@ -1,3 +1,3 @@
-    $(".yeti").mousedown(function() {
+$(".yeti").mousedown(function() {
         alert("Yaaaarrrr!");
     });
